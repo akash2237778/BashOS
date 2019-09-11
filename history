@@ -1,0 +1,70 @@
+[root@localhost OS]# vim factorial.sh 
+[root@localhost OS]# vim factorial.sh 
+[root@localhost OS]# vim factorial.c
+[root@localhost OS]# gcc factorial.c
+[root@localhost OS]# ./a.out 5
+120[root@localhost OS]# vim factorial.c
+[root@localhost OS]# gcc factorial.c
+[root@localhost OS]# ./fact.out 5
+120[root@localhost OS]# ./a.out 5
+120[root@localhost OS]# cp factorial.c factString.c
+[root@localhost OS]# vim factString.c 
+[root@localhost OS]# vim fact
+factfromstring.sh  factorial.sh       factString.c       
+factorial.c        fact.out           
+[root@localhost OS]# vim factfromstring.sh 
+[root@localhost OS]# ./factfromstring.sh 
+Enter number
+hfjkf 5
+5
+./factfromstring.sh: line 7:  8474 Segmentation fault      (core dumped) ./fact.out $B
+[root@localhost OS]# vim factfromstring.sh 
+[root@localhost OS]# ./factfromstring.sh 
+Enter number
+5
+120[root@localhost OS]# vim fact
+factfromstring.sh  factorial.sh       factString.c       
+factorial.c        fact.out           
+[root@localhost OS]# vim fact
+factfromstring.sh  factorial.sh       factString.c       
+factorial.c        fact.out           
+[root@localhost OS]# vim factString.c 
+\[root@localhost OS]# gcc factString.c 
+[root@localhost OS]# ./a.out  fdsjnf 5
+Segmentation fault (core dumped)
+[root@localhost OS]# vim factString.c 
+[root@localhost OS]# ./a.out  5
+Segmentation fault (core dumped)
+[root@localhost OS]# vim factString.c 
+[root@localhost OS]# vim factString.c 
+[root@localhost OS]# gcc factString.c 
+[root@localhost OS]# ./a.out 5
+1[root@localhost OS]# vim factString.c 
+[root@localhost OS]# gcc factString.c 
+[root@localhost OS]# ./a.out 5
+hello1[root@localhost OS]# ./a.out 5 5465 456 65
+hello1[root@localhost OS]# vim factString.c 
+[root@localhost OS]# gcc factString.c 
+[root@localhost OS]# ./a.out 5 5465 456 65
+hellohellohellohellohellohellohellohello1[root@localhost OS]# ./a.out 5 5465 456gcc factString.c 
+[root@localhost OS]# ./a.out 5 5
+hellohellohellohellohellohellohellohello1[root@localhost OS]# ./a.out 5 5465 456vim factString.c 
+[root@localhost OS]# vim factString.c 
+[root@localhost OS]# gcc factString.c 
+[root@localhost OS]# ./a.out hello 5
+120[root@localhost OS]# vim fact
+factfromstring.sh  factorial.sh       factString.c       
+factorial.c        fact.out           
+[root@localhost OS]# vim fact
+factfromstring.sh  factorial.sh       factString.c       
+factorial.c        fact.out           
+[root@localhost OS]# vim factfromstring.sh 
+[root@localhost OS]# ./factfromstring.sh 
+Enter number
+from 5
+120[root@localhost OS]# ./factfromstring.sh 
+Enter number
+fatorial from 5
+120[root@localhost OS]# vim factString.c 
+[root@localhost OS]# 
+
